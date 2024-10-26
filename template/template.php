@@ -20,6 +20,7 @@
     <article>
         <h2><?php page_title(); ?></h2>
         <?php page_content(); ?>
+        <h2>Helllllllllllllllllllllllllllllllllllllll</h2>
     </article>
 
     <footer>
